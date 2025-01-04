@@ -1,9 +1,6 @@
 .DS_Store
 *.pbxuser
+/app.xcarchive
 xcuserdata/
-
-.derivedData
-.docs
-
 buildServer.json
 build
